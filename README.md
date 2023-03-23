@@ -9,7 +9,7 @@ This webpage’s accessibility standards were improved, as per requested:
 ~ The structure of the HTML elements follow a logical structure of styling and positioning
 ~ The icon and image elements now have accessible alt attributes
 ~ The heading attributes fall in sequential order
-~ The titlement is now concise and descriptive
+~ The title is now concise and descriptive
 
 Updated Website:
 https://miss-heather.github.io/first-challenge/
